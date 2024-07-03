@@ -1,0 +1,12 @@
+name: load_time_dio_logger
+description: Load Time Dio Logger is a Dio Interceptor that logs the time taken to make a network request.
+version: 0.0.1
+repository: https://github.com/my_org/my_repo
+environment:
+  sdk: ^3.4.0
+
+dependencies:
+  dio: ^5.5.0
+
+dev_dependencies:
+  lints: ^3.0.0
